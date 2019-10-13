@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="gray">#808080</color>
+
+    <color name="cloudname">#36b37e</color>
+
+<!--    <color name="connection_1">#C464CE</color>
+    <color name="connection_2">#AE3CBA</color>
+    <color name="connection_3">#9E1CAC</color>
+    <color name="connection_4">#880296</color>
+    <color name="connection_5">#6A0274</color>
+
+    <color name="profile_1">#956ED2</color>
+    <color name="profile_2">#7647BF</color>
+    <color name="profile_3">#5F29B2</color>
+    <color name="profile_4">#460E9C</color>
+    <color name="profile_5">#350A79</color>
+
+    <color name="chat_1">#ED719D</color>
+    <color name="chat_2">#E64880</color>
+    <color name="chat_3">#e12366</color>
+    <color name="chat_4">#C90047</color>
+    <color name="chat_5">#9C0037</color> -->
+
+    <color name="connection_1">#88B4D6</color>
+    <color name="connection_2">#5990B9</color>
+    <color name="connection_3">#3974A1</color>
+    <color name="connection_4">#206296</color>
+    <color name="connection_5">#104A76</color>
+
+    <color name="profile_1">#e6f2ed</color>
+    <color name="profile_2">#c3e6d7</color>
+    <color name="profile_3">#8fccb2</color>
+    <color name="profile_4">#60bf97</color>
+    <color name="profile_5">#36b37e</color>
+
+    <color name="chat_1">#FFAF9C</color>
+    <color name="chat_2">#FF8C71</color>
+    <color name="chat_3">#FA6E4D</color>
+    <color name="chat_4">#E94A24</color>
+    <color name="chat_5">#B82F0E</color>
+
+</resources>

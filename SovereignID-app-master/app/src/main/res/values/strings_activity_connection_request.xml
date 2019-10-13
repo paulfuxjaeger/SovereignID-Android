@@ -1,0 +1,14 @@
+<resources>
+    <string name="heading_activity_connection_request">Connection Request</string>
+
+    <string name="cloud_name_edit_text">Cloud Name</string>
+    <string name="discover_button">Discover</string>
+
+    <string name="cloud_name_text_view">Cloud Name</string>
+    <string name="cloud_number_text_view">Cloud Number</string>
+    <string name="csp_info_text_view">CSP Information</string>
+
+    <string name="error_invalid_cloud_name">This cloud name is invalid</string>
+    <string name="error_discovery_task">Cloud name discovery error: </string>
+    <string name="error_field_required">This field is required</string>
+</resources>

@@ -1,0 +1,4 @@
+{$from}[$msg]@~0/$is()/({$to})
+{$from}[$msg]@~0/$do/({$to}/$public)$contract
+{$from}[$msg]@~0$do/$connect/*!:uuid:bf5e86db-1b70-4975-8162-a47afd35141d#app{$contract}
+{$from}[$msg]@~0<#return><$uri>/&/"xdi://com.danubetech.navigator/"

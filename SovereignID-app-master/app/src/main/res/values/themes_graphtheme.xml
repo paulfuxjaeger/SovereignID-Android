@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="GraphTheme" parent="Theme.AppCompat">
+
+    <item name="android:editTextStyle">@style/EditTextGraphTheme</item>
+
+    <item name="android:textColorHighlight">#99b4b4b4</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewGraphTheme</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxGraphTheme</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonGraphTheme</item>
+
+    <item name="android:buttonStyle">@style/ButtonGraphTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonGraphTheme</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerGraphTheme</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemGraphTheme</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarGraphTheme</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleGraphTheme</item>
+
+    <item name="android:listViewStyle">@style/ListViewGraphTheme</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewGraphTheme.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemGraphTheme</item>
+
+  </style>
+
+</resources>

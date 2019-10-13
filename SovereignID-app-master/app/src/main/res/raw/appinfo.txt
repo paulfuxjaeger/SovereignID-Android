@@ -1,0 +1,2 @@
+cloud name: *xdidemoapp
+cloud number: *!:uuid:bf5e86db-1b70-4975-8162-a47afd35141d

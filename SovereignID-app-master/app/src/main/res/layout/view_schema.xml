@@ -1,0 +1,84 @@
+<merge xmlns:tools="http://messages.android.com/tools"
+    xmlns:app="http://messages.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="@style/ProfileEntityFragment"
+        android:paddingBottom="5dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/gray">
+
+            <TextView
+                android:id="@+id/schemaTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:padding="15dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/verifierImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|fill_horizontal"
+                android:scaleX="0.5"
+                android:scaleY="0.5" />
+
+            <ImageView
+                android:id="@+id/delImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|fill_horizontal"
+                android:scaleX="0.5"
+                android:scaleY="0.5"
+                android:src="@drawable/delete" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/verifylayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/gray"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/verifyImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|fill_horizontal"
+                android:scaleX="0.5"
+                android:scaleY="0.5"
+                android:src="@drawable/logo_post" />
+
+            <Button
+                android:id="@+id/verifyButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="Jetzt verifizieren" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/schemaLayout"
+            style="@style/ProfileLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp" />
+    </LinearLayout>
+
+</merge>
